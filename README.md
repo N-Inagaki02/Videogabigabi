@@ -1,6 +1,6 @@
-# こちらは、あなたの所持する画像をグレースケールのガビガビ画像に変換してくれるアプリケーションです。open cvを使って作りました。<br>
+# こちらは、あなたの所持する映像をグレースケールのガビガビ画像に変換してくれるアプリケーションです。open cvを使って作りました。<br>
 ## ー使い方(.pyファイルを実行する場合)ー<br>
-1, .pyファイルをインストールします。<br>「git clone https://github.com/N-Inagaki02/Videogabigabi/new/master?filename=README.md」 <br>
+1, .pyファイルをインストールします。<br>「git clone https://github.com/N-Inagaki02/Videogabigabi/new/master?filename=README.md 」 <br>
 2, 運転するPCにpython3.13をインストールします。 <br>
 3, 「pip install opencv」及び「pip install flet」を実行して、この2つのライブラリをインストールします。 <br>
 4, これらが完了したら、この.pyファイルを実行します。 <br>
